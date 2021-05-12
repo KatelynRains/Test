@@ -10,3 +10,4 @@ where o.Date > '1-1-2018'
 group by
 c.Name
 order by sum(ol.Price) descenhancement made
+Bug fix
